@@ -1,0 +1,17 @@
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a.hover{
+	text-decoration: underline;
+}
+
+.header {
+	float: left;
+	width: 100%;
+	background-color: black;
+	height: 100px;
+	color:white;
+	clear: both;
+}
