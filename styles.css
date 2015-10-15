@@ -17,15 +17,22 @@ ul li{
 	width: 100%;
 	height: 70px;
 }
-.about{
-	margin-left: 33%;
+.home{
+	margin-left: 30%;
 }
 .title{
-	font: bold 70px "helvetica", sans-serif;
+	font-size: 70px;
+}
+.title2{
+	font-size: 60px;
+}
+.title, .title2{
+	font-family: "helvetica", sans-serif;
+	font-weight: bold;
 	margin-top: 35px;
 	color: orange;
 }
-.title, .petweek, .blog{
+.title, .title2, .petweek, .blog{
 	display: inline-block;
 	float: left;
 	margin-bottom: 35px;
@@ -73,8 +80,17 @@ ul li{
 	width: 150px;
 	padding-right: 10px;
 }
-
-
+.tagline{
+	font: 25px "helvetica", sans-serif;
+	clear:both;
+	margin-left: 15px;
+	width: 95%;
+}
+.vol img{
+	display: inline-block;
+	float: left;
+	width: 250px;
+}
 
 
 
