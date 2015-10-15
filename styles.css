@@ -21,22 +21,67 @@ ul li{
 	margin-left: 33%;
 }
 .title{
+	font: bold 70px "helvetica", sans-serif;
+	margin-top: 35px;
+	color: orange;
+}
+.title, .petweek, .blog{
 	display: inline-block;
 	float: left;
-	font: bold 70px "helvetica", sans-serif;
-	color: orange;
+	margin-bottom: 35px;
+	margin-left: 15px;
+}
+.social {
+	float:right;
 }
 .social p{
 	display: inline-block;
 	font-family: "helvetica", sans-serif;
 	font-size: 20px;
-	float: right;
+	float: left;
 	margin-top: 15px;
 }
 .social img{
-	float:right;
+	float:left;
 	display: inline-block;
 	width: 50px;
 	height: 50px;
 	margin: 5px;
 }
+.mainimg{
+	margin-bottom: 35px;
+	margin-top: 35px;
+	text-align: center;
+}
+.underimg{
+	margin-top: 35px;
+	margin-left: 30px;
+}
+.petweek, .blog{
+	width: 45%;
+	padding-left: 25px;
+	box-sizing:	border-box;
+}
+.petweek h2, .blog h2{
+	font: 35px "helvetica", sans-serif;
+	color: orange;
+	padding-bottom: 10px;
+}
+.petweek img{
+	display: inline-block;
+	float: left;
+	width: 150px;
+	padding-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
