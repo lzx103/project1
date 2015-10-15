@@ -84,17 +84,40 @@ ul li{
 	font: 25px "helvetica", sans-serif;
 	clear:both;
 	margin-left: 15px;
+	margin-bottom: 25px;
 	width: 95%;
 }
 .vol img{
+	width: 250px;
+	padding:10px;
+	margin-left: 5px;
+}
+#col1, #col2, #col3{
 	display: inline-block;
 	float: left;
-	width: 250px;
+	width: 32%;
+	border-radius: 25px;
+	border: 2px solid orange;
+	margin: 5px;
+	box-sizing: border-box;
+	height: 350px;
 }
-
-
-
-
+.vol h2{
+	text-align: center;
+	font: bold 25px "helvetica", sans-serif;
+	color: orange;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.vol p, #bottom{
+	margin-top: 5px;
+	padding: 10px;
+	font: 15px "helvetica", sans-serif;
+}
+#bottom, #bottom a{
+	clear: both;
+	color: orange;
+}
 
 
 
