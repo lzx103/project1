@@ -1,0 +1,55 @@
+body {
+	font-family: sans-serif;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a.hover {
+	text-decoration: underline;
+}
+
+
+img {
+	width: 400px;
+	text-align: center;
+	padding-top: 15%;
+}
+
+ ul li {
+	display: inline-block;
+	font-size: 50px;
+	margin: 10px
+
+}
+
+.navbar {
+	width: 100%;
+	background-color: black;
+	color:white;
+}
+
+.navbar ul {
+	text-align: center;
+}
+
+.column1 {
+	float: left;
+	width: 50%;
+	background-color: orange;
+	height:500px;
+	text-align: center;
+}
+
+.column2 {
+	float:left;
+	width: 50%;
+	background-color: lightblue;
+	height: 500px;
+	text-align: center;
+}
+
+
+
