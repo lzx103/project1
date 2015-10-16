@@ -1,0 +1,54 @@
+body {
+	font-family: sans-serif;
+}
+
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a.hover {
+	text-decoration: underline;
+}
+
+img {
+	width: 200px;
+}
+ ul li {
+	display: inline-block;
+	font-size: 50px;
+	margin: 10px
+
+}
+
+
+.navbar {
+	width: 100%;
+	background-color: black;
+	color:white;
+	text-align: center;
+}
+
+.header  {
+	display: inline-block;
+	float:left;
+	color: orange;
+	font-size: 55px;
+	clear:both;
+}
+
+.column1 {
+	float:left;
+	width: 50%;
+
+}
+
+.column2 {
+	float:left;
+	text-align: center;
+	width: 45%;
+	background-color: orange;
+	height: 500px;
+	padding: 5px;
+}
